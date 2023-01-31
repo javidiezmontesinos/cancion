@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+	<html>
+		<body>
+			<h2>Cancion:</h2>
+			<h1>Titulo - <xsl:value-of select="cancion/titulo"/></h1>
+			<p>Autor: <xsl:value-of select="cancion/autor"/>)</p>
+			<br/>
+			
+			<xsl:for-each select="cancion/letra/estrofa">
+				 <xsl:if test="tipo = 'estribillo'">
+				 	Estribillo
+				 </xsl:if>
+				<xsl:sort select="orden"/>
+				<xsl:if test="tipo='estribillo'">
+					
+				</xsl:if>
+				<xsl:for-each select="verso">
+					<p2><xsl:value-of select="."/></p2>
+				</xsl:for-each>
+				<br/>
+			</xsl:for-each>
+			
+	</body>
+	
+	
+</html>
+</xsl:stylesheet>
