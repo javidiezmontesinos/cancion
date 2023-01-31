@@ -1,0 +1,98 @@
+<?xml-stylesheet type="text/xsl" href="cancion.xsl"?>
+<cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="soldadito.xsd">
+    <titulo>Joven de Niro</titulo>
+    <autor>Delaossa</autor>
+    <letra>
+        <estrofa>
+            <tipo>normal</tipo>
+            <orden>11</orden>
+            <verso>Parecer bueno es el arma más peligrosa del diablo</verso>
+            <verso>cinco meses fuera, echo de menos mi barrio</verso>
+            <verso>Crecimos donde estaban to' los viejos pescando</verso>
+            <verso>y aprendimos pa' quedarnos con to' eh, díselo Carlos!</verso>
+        </estrofa>
+        <estrofa>
+            <tipo>normal</tipo>
+            <orden>10</orden>
+            <verso>Yo no vendo mi alma a precio de chatarra</verso>
+            <verso>escribiendo nuevas barras, cortando barras</verso>
+            <verso>Nunca dejé que la calle fuera mi único afluente de agua</verso>
+            <verso>me nutrí de genios, García Márquez, Kurosawa</verso>
+        </estrofa>
+        <estrofa>
+            <tipo>normal</tipo>
+            <orden>9</orden>
+            <verso>Dersu Uzala</verso>
+            <verso>soñando desde chico con abarrotar la sala, ¡Insh'allah!</verso>
+            <verso>En esta mierda está mi última bala</verso>
+            <verso>les garçons viens du quartier et voila</verso>
+        </estrofa>
+        <estrofa>
+            <tipo>normal</tipo>
+            <orden>8</orden>
+            <verso>Gritando por el balcón aquel gol de Zidane</verso>
+            <verso>ahora tirando whisky al suelo por los que ya no están.</verso>
+            <verso>Ahora de after en el salón, escuchando a Camarón</verso>
+            <verso>con caritas de pena y a pleno sol, son las dos ya</verso>
+        </estrofa>
+        <estrofa>
+            <tipo>normal</tipo>
+            <orden>7</orden>
+            <verso>El ratón y el gato, el poli y el caco</verso>
+            <verso>los niños fuman el veneno pa' pasar el rato.</verso>
+            <verso>Pa' olvidarse de que la vida son tres días o cuatro</verso>
+            <verso>y que en un momento to' se para, se rompe el raccord</verso>
+        </estrofa>
+         <estrofa>
+            <tipo>normal</tipo>
+            <orden>6</orden>
+            <verso>Suspiro por lo que perdí por culpa del cáncer</verso>
+            <verso>aprendimos pa' quedarnos con tó'.</verso>
+            <verso>Estoy desde antes de rapear en el barrio</verso>
+            <verso>pero ahora yo soy el cantante como Héctor Lavoe</verso>
+        </estrofa>
+        <estrofa>
+            <tipo>estribillo</tipo>
+            <orden>5</orden>
+            <verso>Eyo loco! Ve y súbelo, ¡qué pasó!</verso>
+            <verso>aspiro a todo, niña, llevo los ojos brillantes</verso>
+            <verso>Ya se han perdido to' esas leyes de antes</verso>
+            <verso>te tenías que ir del campo si venían los grandes</verso>
+        </estrofa>
+        <estrofa>
+            <tipo>estribillo</tipo>
+            <orden>4</orden>
+            <verso>Eyo loco! Ve y súbelo, ¡qué pasó!</verso>
+            <verso>aspiro a todo, niña, llevo los ojos brillantes</verso>
+            <verso>Ya se han perdido to' esas leyes de antes</verso>
+            <verso>te tenías que ir del campo si venían los grandes</verso>
+        </estrofa>
+        <estrofa>
+            <tipo>normal</tipo>
+            <orden>3</orden>
+            <verso>Frecuentando Malas Calles, Joven De Niro</verso>
+            <verso>superando los baches sin antidepresivos.</verso>
+            <verso>Con la actitud de un Rossonieri entrando a San Siro</verso>
+            <verso>así aprendimos, cogimos el rap y lo prendimos</verso>
+        </estrofa>
+           <estrofa>
+            <tipo>normal</tipo>
+            <orden>2</orden>
+            <verso>Yo no sé qué será mañana, no soy adivino</verso>
+            <verso>yo quiero la mansión, un buen culo, un buen vino.</verso>
+            <verso>Que cuando estuve mal sé perfectamente quién vino</verso>
+            <verso>pero ahora que estoy bien me llueven un montón de amigos.</verso>
+        </estrofa>
+        <estrofa>
+            <tipo>estribillo</tipo>
+            <orden>1</orden>
+            <verso>Eyo loco! Ve y súbelo, ¡qué pasó!</verso>
+            <verso>aspiro a todo, niña, llevo los ojos brillantes</verso>
+            <verso>Ya se han perdido to' esas leyes de antes</verso>
+            <verso>te tenías que ir del campo si venían los grandes</verso>
+        </estrofa>
+
+    </letra>
+
+
+</cancion>
