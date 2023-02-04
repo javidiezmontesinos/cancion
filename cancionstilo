@@ -1,0 +1,18 @@
+body {
+  counter-reset: section;
+}
+h2::before {
+  counter-increment: section;
+  content: "Esfrofa " counter(section) ": ";
+}
+h3 {
+  color: grey;
+}
+p {
+  color: blue;
+}
+span {
+  color: blue;
+  background-color: yellow;
+  font-weight: 1000;
+}
